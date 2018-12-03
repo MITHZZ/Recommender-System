@@ -53,4 +53,11 @@ Euclidean distance :
 Euc  sqrt( (x1-x0)^2 + (y1-y0)^2 )
 
 
+**Enchancement  Required 
+A content-based filtering model will not select items if the user’s previous behavior does not provide evidence for this.
+Acollaborative filtering cannot provide recommendations for new items if there are no user ratings upon which to base a prediction. 
 
+This can be resolved by combining collaborative and content-based filtering is to make predictions based on a weighted average of the content-based recommendations and the collaborative recommendations. 
+1.Combining item scores
+2.Combining item ranks:
+Above is a Hybrid Recommeder System approach.
