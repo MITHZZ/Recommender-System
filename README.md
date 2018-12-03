@@ -18,11 +18,11 @@ Basic Steps Invloved :
   Word embeddings 
   
 3) Recommending content:
-  Similarity-based Methods(Cosine Similarity Used here)
-  One-class SVMs
-  Matrix Factorisation
-  Supervised Learning
-  Deep Learning
+   Similarity-based Methods(Cosine Similarity Used here)
+   One-class SVMs
+   Matrix Factorisation
+   Supervised Learning
+   Deep Learning
   
 4)Generating user preference profiles
 
